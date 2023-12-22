@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Board
+comment1.params=
+comment1.target=Board()
+comment2.params=inPos
+comment2.target=java.lang.String\ getPosition(int)
+comment3.params=inPos\ inValue
+comment3.target=void\ setPosition(int,\ java.lang.String)
+numComments=4
